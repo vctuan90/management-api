@@ -1,4 +1,4 @@
-# News Management API
+# Management API Template
 
 A comprehensive RESTful API for managing users, categories, and news articles with JWT authentication, built with Node.js, Express, and SQLite.
 
