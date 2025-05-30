@@ -60,7 +60,7 @@ app.use(requestLogger);
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
   explorer: true,
   customCss: '.swagger-ui .topbar { display: none }',
-  customSiteTitle: 'News Management API Documentation'
+  customSiteTitle: 'Management API Documentation'
 }));
 
 // Swagger JSON endpoint
